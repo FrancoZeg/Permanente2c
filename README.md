@@ -1,1 +1,9 @@
-# Permanente2c
+#JUEGO RPG (COMBATE POR TURNOS) con interfaz gráfica
+Este proyecto consiste en un clásico combate estilo RPG, que con la posibilidad de no solo atacar, sino también, realizar un ataque compuesto, usar objetos de tu mochila y escapar.
+
+--------------------------------------------------------INSTRUCCIONES-------------------------------------------------
+
+Primero, el programa pide el nombre del Usuario para colocarlo junto con sus Puntos de Vida (PV). Luego se nos muestra el menú. Si escogemos atacar, el usuario atacará y le quitará 12 PV. En cambio, si escogemos realizar Ataques Compuestos, se nos abrirá el menú de Ataques Compuestos, en este salen 3 opciones; la primera, permite realizar un movimiento de judo, este quita 25 PV, sin embargo, tiene la posibilidad de fallar y si fallas no pasará nada ; la segunda, permite tirar una piedra invisible, cuando aciertas, el enemigo puede escapar, pero si fallas no pasará nada; por último, si escoges salir, volverás al menú principal. Si escogemos revisar la mochila, se nos abrirá otro menú, en el que se muestran 2 objetos, además de mostrar la opción de salir que funciona como la del anterior menú; si escogemos el bate, el usuario se equipará el bate y hará 6 puntos más de daño, sin embargo, si ya lo tienes equipado, no hará nada; si escogemos la botella de agua, el usuario recuperará 25 PV, sin embargo, el usuario no podrá recuperar más de 100PV (Cantidad inicial), y a medida que vayas usando la botella, la botella se irá vaciando y cuando se acabe ya no podrás usarla. Por último, si usas la opción de escapar, podrás escapar de la batalla, sin embargo, tiene la opción de fallar, en ese caso, el enemigo bloqueará tu escape.
+
+---------------------------------------------------------CONTOLES--------------------------------------------------
+Principalmente solo necesitas usar las flechas para jugar en la manera en que la que el menú te diga.
